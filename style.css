@@ -26,13 +26,13 @@ padding-bottom: 0;
     font-size: 200%;
 }
 .cont{
-    font-size: 150%;
+    font-size: 120%;
 }
 .pic{
-    height: 45em;
+    height: 30em;
     width: 22em;
     padding-left: 18%;
-    padding-top: 13%;
+    padding-top: 8%;
 }
 .icon{
    
@@ -78,5 +78,5 @@ padding-bottom: 0;
     height: 15%;
 }
 .poem{
-    font-size: 1.5em;
+    font-size: 120%;
 }
